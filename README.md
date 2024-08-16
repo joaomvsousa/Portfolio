@@ -1,5 +1,13 @@
 ![Portfolio Banner](https://github.com/joaomvsousa/portfolio/raw/main/Dive%20into%20My%20portfolio!.png)
 
+# <p align="center">Welcome to My Data-Driven Journey </p>
+
+I’m Joao Sousa, and I’m deeply passionate about using data to tackle real-world challenges. For me, data is more than just numbers; it’s a powerful tool for uncovering solutions and driving meaningful change.
+
+In this portfolio, you’ll discover how I approach complex problems with a data-driven mindset, turning intricate datasets into clear insights and actionable strategies. My mission is to leverage data not only to analyze but to create meaningful solutions that make a difference.
+
+Explore my projects bellow to see how I bring creativity and precision to data analysis. 
+
 ## [PROJECT 1 - UK E-commerce Sales Analysis](https://github.com/joaomvsousa/UK-E-Commerce-Sales-Analysis)
 
 **This project utilizes Tableau BI dashboards, alongside other tools like Python and machine learning, to derive actionable insights for enhancing business strategies across various areas:**
