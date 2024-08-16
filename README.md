@@ -1,6 +1,6 @@
 ![Portfolio Banner](https://github.com/joaomvsousa/portfolio/raw/main/Dive%20into%20My%20portfolio!.png)
 
-# <p align="center">Welcome to My Data-Driven Journey </p>
+## Welcome to My Data-Driven Journey
 
 I’m Joao Sousa, and I’m deeply passionate about using data to tackle real-world challenges. For me, data is more than just numbers; it’s a powerful tool for uncovering solutions and driving meaningful change.
 
