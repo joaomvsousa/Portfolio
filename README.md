@@ -1,4 +1,4 @@
-[](https://github.com/joaomvsousa/portfolio/blob/fb31d6df9dadf4f5fb27345ed898a6189e11fb54/Dive%20into%20My%20portfolio!.png)
+![Banner](https://drive.google.com/uc?id=1SSuetfTCAHbN132V8JQbHY5o-8GBXQXH)
 
 ## [PROJECT 1 - UK E-commerce Sales Analysis](https://github.com/joaomvsousa/UK-E-Commerce-Sales-Analysis)
 
