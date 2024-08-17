@@ -2,11 +2,11 @@
 
 ## Welcome to My Data-Driven Journey
 
-I’m Joao Sousa, and I’m deeply passionate about using data to tackle real-world challenges. For me, data is more than just numbers; it’s a powerful tool for uncovering solutions and driving meaningful change.
+I’m Joao Sousa, and I’m passionate about using data to solve real-world challenges. For me, data is more than just numbers—it’s a powerful tool for uncovering insights and driving meaningful change.
 
-In this portfolio, you’ll discover how I approach complex problems with a data-driven mindset, turning intricate datasets into clear insights and actionable strategies. My mission is to leverage data not only to analyze but to create meaningful solutions that make a difference.
+In this portfolio, you’ll see how I approach complex problems with a data-driven mindset, transforming raw datasets into clear insights and actionable strategies. Every project here is fully conceptualized, designed, and executed by me. These aren’t off-the-shelf examples; they’re original works, carefully planned and developed to address specific challenges.
 
-Explore my projects bellow to see how I bring creativity and precision to data analysis. 
+Explore my projects below to see how I blend creativity with precision in data analysis.
 
 ## [PROJECT 1 - UK E-commerce Sales Analysis](https://github.com/joaomvsousa/UK-E-Commerce-Sales-Analysis)
 
