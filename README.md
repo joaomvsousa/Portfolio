@@ -25,7 +25,7 @@ Explore my projects below to see how I blend creativity with precision in data a
 - Optimize Inventory and Product Offerings: Machine learning was used for market basket analysis to improve product mix and identify cross-selling opportunities
   
 
-Want a sneak peek of the project? [Dive into the interactive dashboard](https://public.tableau.com/app/profile/joao.sousa2498/viz/RETAILSHOPANALYSIS/SALESDASHBOARD) to explore the data and insights in more detail!
+Want a sneak peek of the project? [Dive into the interactive dashboard](https://public.tableau.com/views/RETAILSHOPANALYSIS/SALESDASHBOARD?%3Aembed=yes&%3AshowVizHome=no&%3Atoolbar=no&%3Atabs=no&%3Anoheader=yes#1) to explore the data and insights in more detail!
 
 ## [PROJECT 2 - Evaluating Vanguard's New Website Layout: A/B Test Impact on User Experience](https://github.com/joaomvsousa/Vanguard-A-B-Test-Experiment) 
 
