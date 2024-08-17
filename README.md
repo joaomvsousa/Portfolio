@@ -53,4 +53,4 @@ Want a sneak peek of the project? [Dive into the interactive dashboard](https://
   
 - Impact and Application: Demonstrated the value of detailed data analysis in the hospitality industry, offering actionable insights to enhance revenue, optimize operations, and improve guest experiences.
 
-Ready for a closer look? [Explore the interative dashbooard](https://public.tableau.com/app/profile/joao.sousa2498/viz/HotelBookingAnalysis_17221115210960/DashboardCity) to uncover detailed data insights and visualizations! 
+Ready for a closer look? [Explore the interative dashbooard](https://public.tableau.com/views/HotelBookingAnalysis_17221115210960/DashboardCity?:language=pt-BR&:embed=yes&:showVizHome=no&:toolbar=no&:tabs=no&:noheader=yes&:display_count=n&:origin=viz_share_link) to uncover detailed data insights and visualizations! 
