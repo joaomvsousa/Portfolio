@@ -54,3 +54,18 @@ Want a sneak peek of the project? [Dive into the interactive dashboard](https://
 - Impact and Application: Demonstrated the value of detailed data analysis in the hospitality industry, offering actionable insights to enhance revenue, optimize operations, and improve guest experiences.
 
 Ready for a closer look? [Explore the interative dashbooard](https://public.tableau.com/views/HotelBookingAnalysis_17221115210960/DashboardCity?:language=pt-BR&:embed=yes&:showVizHome=no&:toolbar=no&:tabs=no&:noheader=yes&:display_count=n&:origin=viz_share_link) to uncover detailed data insights and visualizations! 
+
+
+
+
+
+
+<a href="mailto:joaomendesvideirasousa@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://github.com/joaomvsousa/Portfolio/blob/main/Images/gmail.png" alt="Email Icon" style="width: 24px; height: 24px; margin-right: 8px;">
+</a>
+<span style="display: inline-block; vertical-align: middle; line-height: 24px;"> 
+   Got questions or ideas? Reach out to me—I’m excited to hear from you and explore potential opportunities.
+</span>
+
+
+
