@@ -55,8 +55,25 @@ Want a sneak peek of the project? [Dive into the interactive dashboard](https://
 
 Ready for a closer look? [Explore the interative dashbooard](https://public.tableau.com/views/HotelBookingAnalysis_17221115210960/DashboardCity?:language=pt-BR&:embed=yes&:showVizHome=no&:toolbar=no&:tabs=no&:noheader=yes&:display_count=n&:origin=viz_share_link) to uncover detailed data insights and visualizations! 
 
+## [PROJECT 4 - TechMeUp dashboard: Empowering Students to Achieve Tech Careers](https://public.tableau.com/views/TechmeUp/TechMeUp?:showVizHome=no&:embed=true&:toolbar=no) 
 
+**This project involved the development of an interactive dashboard to showcase the transformative impact of TechMeUp, a Dutch NGO dedicated to helping students break into the tech industry by offering financial support for education. Utilizing Python for data preparation and Tableau for visualizations, the dashboard provides comprehensive insights into the journey and success of TechMeUp students over the last four years.** 
 
+- Evaluate Student Success and Career Impact: Analyze key metrics such as the number of students supported, career achievements, and average job search durations.
+
+ - Support Data-Driven Decision Making: The dashboard empowers TechMeUp and its partners to identify trends in student career paths, training center popularity, and job placement success rates.
+
+- Tailor Recruitment and Career Support: By analyzing language proficiency and job search times, recruiters can better understand how language skills impact job placements and develop strategies to connect with top talent.
+
+- Optimize Educational and Training Programs: Detailed breakdowns of student preferences for various tech training centers allow TechMeUp to refine partnerships and improve offerings to future students.
+
+- Interactive Map with Drill-Down Functionality: A map built in Tableau allows users to drill down from province to city level, helping uncover hidden tech talent across the Netherlands. Recruiters can explore specific locations to find candidates who match their hiring needs.
+
+- Detailed Table for In-Depth Analysis: At the end of the dashboard, a detailed table provides granular data on individual students, including their chosen career path, training center, language proficiency, and job search status. This feature offers a comprehensive view for users looking for specific candidate profiles.
+
+Leverage Interactive Filters: The dashboard features filters by career field, training center, and job search timeline, providing users with a customizable experience to explore the data relevant to their needs.
+
+🚀 Ready to explore the data for yourself? [Click here to dive into the interactive dashboard](https://public.tableau.com/views/TechmeUp/TechMeUp?:showVizHome=no&:embed=true&:toolbar=no) , uncover hidden talent, and gain valuable insights to guide your next decision!
 
 
 
